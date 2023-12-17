@@ -11,5 +11,5 @@ types.
 - Analyze eye images to estimate the capture duration of the fish accurately.
 - Provide market price information for identified fish types.
 # Data Sources
-Image Dataset: Images collected through on-site photography during visits to the local fish market. This ensures a firsthand and diverse representation of various fish species in the market ,In addition to some Images from the Internet.
-Market Data: Pricing information obtained individually from the local fish market during each visit. This includes the cost of different fish species, allowing for real-time market insights.
+- Image Dataset: Images collected through on-site photography during visits to the local fish market. This ensures a firsthand and diverse representation of various fish species in the market ,In addition to some Images from the Internet.
+- Market Data: Pricing information obtained individually from the local fish market during each visit. This includes the cost of different fish species, allowing for real-time market insights.
